@@ -1,4 +1,10 @@
 /* write your override styles here */
+
+#wall .parent{
+  display: none;
+}
+
+
 /*
 
 
