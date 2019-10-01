@@ -1,6 +1,8 @@
 /* write your override styles here */
 
-
+#wall .parent #tag-6{
+  display: none;
+}
 
 
 /*
